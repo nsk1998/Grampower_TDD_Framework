@@ -1,0 +1,145 @@
+[INFO ] 2023-05-19 22:38:23.508 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 22:38:25.565 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 22:38:25.587 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 22:38:27.515 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 22:38:27.527 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 22:38:29.490 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 22:38:29.504 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 23:29:14.427 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:29:16.610 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 23:29:16.630 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 23:29:18.455 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 23:29:18.466 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 23:29:20.358 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 23:29:20.370 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 23:31:36.470 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:31:37.563 [main] MyStoreV1 - Browser Opened and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-05-19 23:44:18.326 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:44:43.793 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:47:06.815 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:47:44.900 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:47:46.973 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 23:47:46.991 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 23:47:49.203 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 23:47:49.218 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 23:47:51.156 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-05-19 23:47:51.169 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-05-19 23:48:47.163 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:54:38.743 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:55:49.177 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:59:14.852 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-19 23:59:57.999 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-20 00:03:31.585 [main] MyStoreV1 - URL opened
+[INFO ] 2023-05-20 00:03:32.663 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-05-20 00:03:33.424 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-05-20 00:03:34.111 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-05-20 00:03:34.138 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 10:33:39.156 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 10:33:42.048 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 10:33:42.077 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-10-24 10:33:44.417 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 10:34:18.250 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 10:34:19.688 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 10:34:20.711 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 10:34:21.743 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 10:34:21.772 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 10:49:13.636 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 10:49:15.295 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 10:49:16.237 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 10:49:17.225 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 10:49:17.259 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 10:55:47.652 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 10:55:49.110 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 10:55:50.141 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 10:55:51.131 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 10:55:51.153 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 10:58:49.334 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 10:58:50.746 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 10:58:51.839 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 10:58:52.783 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 10:58:52.814 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 11:00:02.648 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 11:00:04.130 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 11:00:05.284 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 11:00:06.114 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 11:00:06.143 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 11:01:37.763 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 11:01:39.174 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 11:01:40.277 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 11:01:41.265 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 11:01:41.300 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 11:02:41.994 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 11:02:43.421 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 11:02:44.448 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 11:02:45.436 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 11:02:45.464 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 12:02:16.145 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:02:17.631 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 12:02:18.626 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 12:02:19.616 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 12:02:19.642 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 12:05:43.908 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:05:45.377 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 12:05:46.296 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 12:05:47.282 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 12:05:47.313 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 12:08:15.239 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:08:16.540 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 12:08:17.487 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 12:08:18.432 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 12:08:18.469 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 12:21:36.943 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:21:38.406 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 12:21:39.738 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 12:21:40.579 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 12:21:40.620 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 12:25:43.103 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:25:44.394 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 12:25:45.294 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 12:25:46.201 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 12:25:46.234 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 12:29:05.876 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:29:08.591 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:29:08.616 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-10-24 12:29:10.892 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:29:22.175 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:33:07.739 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:33:10.271 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:33:10.295 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-10-24 12:33:12.540 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:33:23.877 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:36:15.336 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:36:18.117 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:36:18.143 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-10-24 12:36:20.542 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:36:31.901 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:38:29.769 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:38:31.085 [main] MyStoreV1 - Browser launched and sucessfully redirected to login page from dashboard page[index page]
+[INFO ] 2023-10-24 12:38:31.971 [main] MyStoreV1 - Clicked on Login button by entering valid credentials
+[INFO ] 2023-10-24 12:38:32.857 [main] MyStoreV1 - Clicked on search button by entering search keyword
+[INFO ] 2023-10-24 12:38:32.881 [main] MyStoreV1 - Search Product TestCase - Passed
+[INFO ] 2023-10-24 12:43:27.674 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:43:30.031 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:43:30.057 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-10-24 12:43:31.971 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:45:46.834 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 12:45:49.162 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:45:49.186 [main] MyStoreV1 - Login Success- Test Case Pass
+[INFO ] 2023-10-24 12:45:51.017 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 12:46:02.593 [main] MyStoreV1 - Clicked on login button by entering id & pwd
+[INFO ] 2023-10-24 13:15:09.042 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 13:15:09.579 [main] MyStoreV1 - Entered Username
+[INFO ] 2023-10-24 13:15:10.047 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-24 13:15:17.814 [main] MyStoreV1 - Click on Sign In button
+[INFO ] 2023-10-24 13:27:13.762 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 13:27:13.783 [main] MyStoreV1 - Fetched the title of page
+[INFO ] 2023-10-24 13:27:13.788 [main] MyStoreV1 - Title of page has been validated
+[INFO ] 2023-10-24 13:27:14.264 [main] MyStoreV1 - Entered Username
+[INFO ] 2023-10-24 13:27:14.692 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-24 13:27:19.521 [main] MyStoreV1 - Click on Sign In button
+[INFO ] 2023-10-24 13:28:26.773 [main] MyStoreV1 - URL opened
+[INFO ] 2023-10-24 13:28:26.792 [main] MyStoreV1 - Fetched the title of page
+[INFO ] 2023-10-24 13:28:26.794 [main] MyStoreV1 - Title of page has been validated
+[INFO ] 2023-10-24 13:28:27.280 [main] MyStoreV1 - Entered Username
+[INFO ] 2023-10-24 13:28:27.710 [main] MyStoreV1 - Entered password
+[INFO ] 2023-10-24 13:28:32.367 [main] MyStoreV1 - Click on Sign In button
